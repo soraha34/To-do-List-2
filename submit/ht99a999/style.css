@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 
 body {
-    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 h1 {
@@ -21,10 +21,6 @@ label {
 
 label:hover {
     background-color: #E1F5FE;
-}
-
-input[type=checkbox] {
-    margin: 0 10px;
 }
 
 a {
@@ -82,4 +78,8 @@ input[type=button]:active {
 .del-button {
     float: right;
     padding-right: 10px;
+}
+
+input[type=checkbox] {
+    margin: 10px;
 }
