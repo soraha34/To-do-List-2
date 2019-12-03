@@ -69,6 +69,8 @@ input[type=button]:active {
     color: #fff;
 }
 
+input[type=checkbox]{ margin: 10px; }
+
 .del-button {
     float: right;
     padding-right: 10px;
