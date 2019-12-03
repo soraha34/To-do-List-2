@@ -1,3 +1,7 @@
+body { 
+	font-family: 'Oswald', sans-serif; 
+}
+
 h1 {
     background-color: #4FC3F7;
     color: #fff;
@@ -72,4 +76,8 @@ input[type=button]:active {
 .del-button {
     float: right;
     padding-right: 10px;
+}
+
+input[type=checkbox] { 
+	margin: 10px;
 }
